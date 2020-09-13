@@ -1,6 +1,6 @@
 def prime?(num)
 require 'prime'
-prime(2)
-prime(-1)
+prime.prime(2)
+prime.prime(-1)
 end
   # Add  code here!
