@@ -4,4 +4,5 @@ def prime?(num)
   else (2..num-1).to_a.all? do |factor|
   end
 end
+end
   # Add  code here!
