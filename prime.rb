@@ -1,7 +1,6 @@
 def prime?(num)
-  if num < 0 or num == 0 or == 1
-    return false
-  else
-  end
+require 'prime'
+prime(2)
+prime(4)
 end
   # Add  code here!
