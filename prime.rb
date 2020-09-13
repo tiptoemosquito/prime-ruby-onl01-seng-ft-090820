@@ -7,4 +7,3 @@ def prime?(num)
   end
 end
   # Add  code here!
-puts prime?(105557)
